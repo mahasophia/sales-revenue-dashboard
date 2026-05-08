@@ -1,0 +1,25 @@
+# Sales & Revenue Analysis Dashboard
+
+## 📊 Project Overview
+This dashboard analyzes sales and revenue data using Power BI.
+
+## 🚀 Features
+- KPI Cards for Sales and Profit
+- Sales Trend Analysis
+- Top Selling Products
+- Interactive Filters (Slicers)
+- Category-wise Analysis
+
+## 🛠 Tools Used
+- Power BI
+- Excel Dataset
+
+## 📈 Insights
+- Identified top-performing products
+- Compared sales across regions
+- Analyzed revenue trends over time
+
+## 📂 Files Included
+- Sales_Dashboard.pbix
+- dataset.xlsx
+- dashboard.png
