@@ -1,0 +1,137 @@
+
+1. Project Title
+
+Sales & Revenue Analysis Dashboard using Power BI
+
+2. Introduction
+
+The Sales & Revenue Analysis Dashboard is a business intelligence project developed using Power BI to analyze sales performance, profit trends, product performance, and regional sales distribution.
+
+The dashboard helps users understand business insights through interactive visualizations, KPI cards, charts, and slicers.
+
+This project demonstrates data visualization, dashboard design, KPI analysis, and business reporting skills.
+
+3. Objectives
+
+The main objectives of this project are:
+
+To analyze sales and revenue data
+To identify top-performing products
+To track profit and sales trends
+To compare sales across categories and regions
+To create an interactive business dashboard
+To improve decision-making using visual analytics
+4. Tools and Technologies Used
+Tool	Purpose
+Power BI	Dashboard creation and visualization
+Excel Dataset	Data source
+GitHub	Project hosting and portfolio
+5. Dataset Information
+
+The dataset used in this project is the Superstore Sales Dataset.
+
+Dataset contains:
+Order ID
+Product Name
+Sales
+Profit
+Category
+Region
+Order Date
+Customer Information
+
+The dataset was imported into Power BI and transformed using Power Query Editor.
+
+6. Data Preprocessing
+
+The following preprocessing steps were performed:
+
+Imported Excel dataset into Power BI
+Opened Power Query Editor
+Changed date columns using Locale settings
+Converted Sales and Profit columns into Decimal Number format
+Removed errors and corrected data types
+Applied transformations and loaded cleaned data
+7. Dashboard Features
+
+The dashboard contains multiple interactive visualizations:
+
+KPI Cards
+Total Sales
+Total Orders
+Total Profit
+Charts
+Bar Chart for Top Selling Products
+Line Chart for Sales Trend Over Years
+Pie Chart for Sales Distribution by Category
+Interactive Filters (Slicers)
+Region Filter
+Category Filter
+Design Elements
+Business-themed background
+Sales-related image
+Professional dashboard title
+8. Dashboard Insights
+
+The dashboard provides the following business insights:
+
+Identifies products with highest sales
+Shows yearly sales growth trend
+Compares category-wise sales distribution
+Helps analyze regional performance
+Tracks total revenue and profit
+
+These insights can help businesses make better strategic decisions.
+
+9. Advantages of the Dashboard
+Easy to understand visual reports
+Interactive filtering system
+Quick KPI tracking
+Better business analysis
+Professional business presentation
+10. Challenges Faced
+
+During the project development, the following challenges were faced:
+
+Date conversion errors
+Incorrect data types
+Sales column showing Count instead of Sum
+Dashboard alignment and formatting issues
+
+These problems were solved using Power Query transformations and Power BI formatting tools.
+
+11. Conclusion
+
+The Sales & Revenue Analysis Dashboard successfully analyzes business sales data using Power BI.
+
+The project improved understanding of:
+
+Data visualization
+Dashboard creation
+Business intelligence concepts
+KPI analysis
+Interactive reporting
+
+This dashboard can be further enhanced by connecting live databases and adding advanced analytics.
+
+12. Future Enhancements
+
+Future improvements can include:
+
+Real-time data integration
+Forecasting and predictive analytics
+Customer segmentation analysis
+Mobile dashboard optimization
+Advanced DAX calculations
+13. GitHub Repository
+
+The complete project files, dashboard screenshot, and Power BI report are uploaded to GitHub.
+
+14. References
+Power BI Documentation
+Microsoft Learn
+Superstore Sales Dataset
+GitHub
+15. Project Outcome
+
+Successfully built an interactive Sales & Revenue Analysis Dashboard using Power BI with KPI tracking, charts, filters, and business insights visualization.
